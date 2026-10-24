@@ -13,4 +13,3 @@ apps de desktop no Windows, sistemas web e jogos que rodam no navegador.
   monte combinações e roube as dos amigos. ASP.NET Core + SignalR.
 - ♟️ **[chess-console](https://github.com/jeffersonmds/chess-console)**: xadrez no console em C#, com roque, en passant e promoção.
 
-<sub>Projetos mais antigos (Angular, Flutter, React) continuam nos repositórios; os de estudo estão arquivados.</sub>
