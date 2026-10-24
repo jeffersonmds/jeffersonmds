@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="359" viewBox="0 0 820 359">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:16px;fill:#c9d1d9;white-space:pre}
+.o{opacity:0;animation:in .25s forwards}
+.k{opacity:0;animation:in .1s forwards,blink 1s steps(1) infinite}
+@keyframes in{to{opacity:1}}
+@keyframes type{to{transform:translateX(100%)}}
+@keyframes blink{50%{fill:transparent}}
+rect{transform-box:fill-box}
+</style>
+<rect width="820" height="359" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 12A11.5 11.5 0 0 1 12 .5h796A11.5 11.5 0 0 1 819.5 12v26H.5z" fill="#161b22"/>
+<circle cx="22" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="19" r="6" fill="#27c93f"/>
+<text x="410.0" y="24" text-anchor="middle" style="font-size:13px;fill:#6e7681">jefferson@github: ~</text>
+<text x="28" y="74" style="fill:#3fb950">❯</text><text x="52" y="74" textLength="57.599999999999994" lengthAdjust="spacing">whoami</text><rect x="52" y="58" width="59.599999999999994" height="22" fill="#0d1117" style="animation:type 0.36s steps(6) 0.60s forwards"/>
+<text class="o" x="52" y="104" textLength="412.8" lengthAdjust="spacing" style="animation-delay:1.31s"><tspan fill="#c9d1d9">Jefferson Morais</tspan><tspan fill="#6e7681">  ·  </tspan><tspan fill="#3fb950">Dev C#/.NET</tspan><tspan fill="#6e7681">  ·  </tspan><tspan fill="#c9d1d9">Brasil</tspan></text>
+<text x="28" y="149" style="fill:#3fb950">❯</text><text x="52" y="149" textLength="124.8" lengthAdjust="spacing">cat stack.txt</text><rect x="52" y="133" width="126.8" height="22" fill="#0d1117" style="animation:type 0.78s steps(13) 1.56s forwards"/>
+<text class="o" x="52" y="179" textLength="595.1999999999999" lengthAdjust="spacing" style="animation-delay:2.69s"><tspan fill="#a179dc">C#</tspan><tspan fill="#8f7cf7">  .NET</tspan><tspan fill="#58a6ff">  WPF</tspan><tspan fill="#b392f0">  ASP.NET Core</tspan><tspan fill="#f0883e">  SignalR</tspan><tspan fill="#3178c6">  TypeScript</tspan><tspan fill="#f85149">  Angular</tspan><tspan fill="#e3b341">  SQL</tspan></text>
+<text x="28" y="224" style="fill:#3fb950">❯</text><text x="52" y="224" textLength="124.8" lengthAdjust="spacing">cat sobre.txt</text><rect x="52" y="208" width="126.8" height="22" fill="#0d1117" style="animation:type 0.78s steps(13) 2.94s forwards"/>
+<text class="o" x="52" y="254" textLength="595.1999999999999" lengthAdjust="spacing" style="animation-delay:4.07s"><tspan fill="#c9d1d9">Construo coisas que eu mesmo uso: apps de desktop pro Windows,</tspan></text>
+<text class="o" x="52" y="284" textLength="422.4" lengthAdjust="spacing" style="animation-delay:4.32s"><tspan fill="#c9d1d9">sistemas web e jogos que rodam no navegador.</tspan></text>
+<text class="o" x="28" y="329" style="fill:#3fb950;animation-delay:4.57s">❯</text><rect class="k" x="52" y="314" width="9.6" height="19" fill="#c9d1d9" style="animation-delay:4.57s"/>
+</svg>
